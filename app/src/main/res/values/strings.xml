@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView CheckBox</string>
+    <string name="checked">!Checked!</string>
+    <string name="unChecked"></string>
+    <string name="action_settings">Settings</string>
+    <string-array name="product">
+        <item>RS2 EP-1501</item>
+        <item>RS2 EP-1502</item>
+        <item>RS2 EP-2500</item>
+        <item>RS2 MR-16OUT</item>
+        <item>RS2 MR-16IN</item>
+        <item>RS2 MR-50</item>
+        <item>RS2 MR-51E</item>
+        <item>RS2 MR-52</item>
+        <item>RS2 NCL</item>
+        <item>RS2 NCL-12</item>
+        <item>RS2 NCL-12UL</item>
+        <item>RS2 NCL-SBE</item>
+    </string-array>
+    <string-array name="description">
+        <item>Initial one-reader capability, with the capacity to expand up to 17 doors.</item>
+        <item>Initial two-reader for up to 64 reader/input/output I/O panels</item>
+        <item>Enhanced version of the MR-1502</item>
+        <item>16 Channel Output Board</item>
+        <item>16 Channel Input Board</item>
+        <item>Single Reader Interface</item>
+        <item>Single Door Dual Reader Interface</item>
+        <item>Two Door Interface</item>
+        <item>18"x15"x4" Nema Type 1 Enclosure for Three Boards</item>
+        <item>24"x18"x4.5" Nema Type 1 Enclosure for Six Boards</item>
+        <item>24"x18"x4.5" Nema Type 1 Enclosure for Six Boards,UL,Cable Management</item>
+        <item>12"x10" Single Board Enclosure</item>
+    </string-array>
+
+</resources>
